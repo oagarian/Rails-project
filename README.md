@@ -1,24 +1,15 @@
-# README
+# 📝 README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 💾 HOW TO RUN
 
-Things you may want to cover:
+```sh
+bundle install
 
-* Ruby version
+rails server
+```
 
-* System dependencies
+* The server will start on: http://localhost:3000
 
-* Configuration
+## 📅  TODO
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create "vergonha na cara"
